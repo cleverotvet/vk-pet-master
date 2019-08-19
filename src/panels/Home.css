@@ -1,0 +1,17 @@
+.userName {
+    text-align: center;
+}
+
+.button1 {
+    background-color: #e64646;
+    color: white;
+}
+
+.button2 {
+    background-color: blue;
+    color: white;
+}
+
+.Panel__in {
+     padding-top: 0 !important;
+ }
